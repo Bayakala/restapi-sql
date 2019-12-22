@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: com.github.tasubo:jurl-tools:0.6:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.github.tasubo/jurl-tools/jars/jurl-tools-0.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.github.tasubo/jurl-tools/srcs/jurl-tools-0.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
